@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Smoke TestSuite">
+<test name="Application Test">
+	<classes>
+		<class name="testclasses.Mama_TestClass"></class>
+		<class name="testclasses.TestNG_TestClass2"></class>
+	</classes>
+</test>
+</suite>

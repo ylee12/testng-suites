@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="allSuites">
+  <suite-files>
+    <suite-file path="multiple-tests.xml" />
+    <suite-file path="testng-classes.xml" />
+    <suite-file path="5-testng.xml" />
+  </suite-files>
+</suite>
